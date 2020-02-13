@@ -1,0 +1,20 @@
+{
+  "name": "typescriptproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3Nakajugo/TypescriptProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3Nakajugo/TypescriptProject/issues"
+  },
+  "homepage": "https://github.com/3Nakajugo/TypescriptProject#readme"
+}
